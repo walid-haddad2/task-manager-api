@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Manager API
 
 A production-ready RESTful API for task management, built with **Spring Boot 3**, **Spring Security**, and **JWT authentication**.
@@ -109,6 +108,3 @@ src/main/java/com/waliddev/taskmanager/
 ---
 
 *Part of my portfolio — see also [task-manager-ui](https://github.com/walid-haddad/task-manager-ui)*
-=======
-# task-manager
->>>>>>> origin/main
