@@ -2,6 +2,8 @@
 
 A production-ready RESTful API for task management, built with **Spring Boot 3**, **Spring Security**, and **JWT authentication**.
 
+[![GitHub Actions](https://github.com/walid-haddad2/task-manager-api/actions/workflows/ci.yml/badge.svg)](https://github.com/walid-haddad2/task-manager-api/actions/workflows/ci.yml)
+
 ## Features
 
 - **JWT Authentication** — stateless auth with Bearer tokens
